@@ -20,4 +20,6 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextClick(View view) {
         tvMain.setText("Hello");
     }
+
+    ///Some new changes that we do not need
 }
